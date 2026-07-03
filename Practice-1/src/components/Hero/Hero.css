@@ -1,0 +1,12 @@
+#hero {
+    background-color: #e8e8e8;
+    min-height: 70vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+
+    padding: 60px 20px;
+    flex-wrap: wrap;
+}
