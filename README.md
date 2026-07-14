@@ -45,4 +45,4 @@ This repository is maintained to
 
 Alok Kumar
 
-GitHub: https://github.com/alokkumariiit
+GitHub: https://github.com/alokkumar28
